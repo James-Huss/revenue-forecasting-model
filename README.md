@@ -25,6 +25,7 @@ All data used is anonymized and sample-based for demonstration purposes.
 ## Project Structure
 revenue-forecasting-model/
 ├── README.md
+├── requirements.txt
 ├── data/ # Sample or anonymized Walmart sales data CSVs
 ├── notebooks/ # Jupyter notebooks/python scripts for cleaning, feature engineering, and modeling
 ├── dashboards/ # Tableau Public workbook (.twb)
